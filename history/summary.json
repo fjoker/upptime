@@ -19,9 +19,9 @@
     "name": "IP address",
     "url": "http://18.156.176.223:3000",
     "slug": "ip-address",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 246
+    "time": 164
   },
   {
     "name": "Hacker News",
@@ -44,7 +44,7 @@
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "99.34",
+    "uptime": "98.72",
     "time": 0
   }
 ]
