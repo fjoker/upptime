@@ -5,7 +5,7 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00",
-    "time": 61
+    "time": 72
   },
   {
     "name": "Wikipedia",
@@ -13,15 +13,15 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00",
-    "time": 56
+    "time": 80
   },
   {
     "name": "IP address",
     "url": "http://18.156.176.223:3000",
     "slug": "ip-address",
     "status": "down",
-    "uptime": "85.57",
-    "time": 123
+    "uptime": "62.94",
+    "time": 98
   },
   {
     "name": "Hacker News",
@@ -29,7 +29,7 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00",
-    "time": 229
+    "time": 267
   },
   {
     "name": "Broken Site",
@@ -44,7 +44,7 @@
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "98.31",
+    "uptime": "97.30",
     "time": 0
   }
 ]
