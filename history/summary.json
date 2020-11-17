@@ -5,6 +5,22 @@
     "slug": "www",
     "status": "up",
     "uptime": "100.00",
-    "time": 903
+    "time": 933
+  },
+  {
+    "name": "arch",
+    "url": "https://arch.eduwill.net",
+    "slug": "arch",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 950
+  },
+  {
+    "name": "ea",
+    "url": "https://ea.eduwill.net",
+    "slug": "ea",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 1322
   }
 ]
