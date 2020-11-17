@@ -6,6 +6,10 @@ repo: upptime # Your Github repository name
 sites:
   - name: www
     url: https://www.eduwill.net
+  - name: arch
+    url: https://arch.eduwill.net
+  - name: ea
+    url: https://ea.eduwill.net
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
