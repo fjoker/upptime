@@ -5,7 +5,7 @@
     "slug": "www",
     "status": "up",
     "uptime": "100.00%",
-    "time": 989
+    "time": 988
   },
   {
     "name": "arch",
@@ -13,7 +13,7 @@
     "slug": "arch",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1021
+    "time": 1012
   },
   {
     "name": "ea",
@@ -21,6 +21,6 @@
     "slug": "ea",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1459
+    "time": 1451
   }
 ]
