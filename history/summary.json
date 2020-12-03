@@ -5,7 +5,15 @@
     "slug": "www",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1004
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1007,
+    "timeDay": 1040,
+    "timeWeek": 1034,
+    "timeMonth": 1007,
+    "timeYear": 1007
   },
   {
     "name": "arch",
@@ -13,7 +21,15 @@
     "slug": "arch",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1007
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1011,
+    "timeDay": 1076,
+    "timeWeek": 997,
+    "timeMonth": 1011,
+    "timeYear": 1011
   },
   {
     "name": "ea",
@@ -21,6 +37,14 @@
     "slug": "ea",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1481
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1485,
+    "timeDay": 1535,
+    "timeWeek": 1521,
+    "timeMonth": 1485,
+    "timeYear": 1485
   }
 ]
