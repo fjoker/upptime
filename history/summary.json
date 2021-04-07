@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 1068,
-    "timeDay": 1234,
-    "timeWeek": 1060,
-    "timeMonth": 1160,
-    "timeYear": 1068,
+    "time": 1067,
+    "timeDay": 971,
+    "timeWeek": 1050,
+    "timeMonth": 1157,
+    "timeYear": 1067,
     "dailyMinutesDown": {
       "2020-12-08": 329
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 1075,
-    "timeDay": 1050,
-    "timeWeek": 1063,
-    "timeMonth": 1089,
+    "timeDay": 987,
+    "timeWeek": 1045,
+    "timeMonth": 1086,
     "timeYear": 1075,
     "dailyMinutesDown": {
       "2020-12-08": 329
@@ -45,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/ea.eduwill.net",
     "slug": "ea",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.82%",
-    "time": 1564,
-    "timeDay": 1524,
-    "timeWeek": 1474,
-    "timeMonth": 1571,
-    "timeYear": 1564,
+    "uptimeYear": "99.83%",
+    "time": 1563,
+    "timeDay": 1407,
+    "timeWeek": 1451,
+    "timeMonth": 1566,
+    "timeYear": 1563,
     "dailyMinutesDown": {
       "2021-01-28": 25,
       "2020-12-08": 329
