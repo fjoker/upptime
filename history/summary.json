@@ -4,11 +4,11 @@
     "url": "https://www.eduwill.net",
     "icon": "https://favicons.githubusercontent.com/www.eduwill.net",
     "slug": "www",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.89%",
     "time": 1077,
     "timeDay": 1262,
@@ -16,6 +16,7 @@
     "timeMonth": 1076,
     "timeYear": 1077,
     "dailyMinutesDown": {
+      "2021-10-25": 2,
       "2021-07-27": 225,
       "2020-12-08": 329
     }
@@ -25,10 +26,10 @@
     "url": "https://arch.eduwill.net",
     "icon": "https://favicons.githubusercontent.com/arch.eduwill.net",
     "slug": "arch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 1173,
@@ -37,6 +38,7 @@
     "timeMonth": 1296,
     "timeYear": 1173,
     "dailyMinutesDown": {
+      "2021-10-25": 1,
       "2021-07-27": 225,
       "2020-12-08": 329
     }
@@ -46,9 +48,9 @@
     "url": "https://ea.eduwill.net",
     "icon": "https://favicons.githubusercontent.com/ea.eduwill.net",
     "slug": "ea",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
@@ -58,6 +60,7 @@
     "timeMonth": 1480,
     "timeYear": 1524,
     "dailyMinutesDown": {
+      "2021-10-25": 0,
       "2021-07-27": 225,
       "2021-01-28": 25,
       "2020-12-08": 329
