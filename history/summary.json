@@ -40,17 +40,19 @@
     "url": "https://ea.eduwill.net",
     "icon": "https://icons.duckduckgo.com/ip3/ea.eduwill.net.ico",
     "slug": "ea",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1474,
+    "time": 1473,
     "timeDay": 1824,
     "timeWeek": 1598,
     "timeMonth": 1539,
     "timeYear": 1464,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-09": 0
+    }
   }
 ]
