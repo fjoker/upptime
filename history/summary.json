@@ -4,17 +4,17 @@
     "url": "https://www.eduwill.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.eduwill.net.ico",
     "slug": "www",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "89.14%",
+    "uptimeDay": "89.13%",
     "uptimeWeek": "98.45%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.97%",
     "time": 1097,
-    "timeDay": 2946,
-    "timeWeek": 1914,
-    "timeMonth": 1473,
-    "timeYear": 1098,
+    "timeDay": 2656,
+    "timeWeek": 1855,
+    "timeMonth": 1465,
+    "timeYear": 1099,
     "dailyMinutesDown": {
       "2022-11-09": 156
     }
@@ -26,9 +26,9 @@
     "slug": "arch",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "89.70%",
-    "uptimeWeek": "98.53%",
-    "uptimeMonth": "99.66%",
+    "uptimeDay": "88.45%",
+    "uptimeWeek": "98.35%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.97%",
     "time": 1365,
     "timeDay": 2810,
@@ -36,7 +36,7 @@
     "timeMonth": 1949,
     "timeYear": 1388,
     "dailyMinutesDown": {
-      "2022-11-09": 148
+      "2022-11-09": 165
     }
   },
   {
@@ -46,17 +46,17 @@
     "slug": "ea",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "84.72%",
-    "uptimeWeek": "97.82%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.96%",
+    "uptimeDay": "83.47%",
+    "uptimeWeek": "97.64%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.95%",
     "time": 1473,
     "timeDay": 1824,
     "timeWeek": 1598,
     "timeMonth": 1539,
     "timeYear": 1464,
     "dailyMinutesDown": {
-      "2022-11-09": 220
+      "2022-11-09": 238
     }
   }
 ]
