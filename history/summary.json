@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.eduwill.net.ico",
     "slug": "www",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "94.42%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.82%",
+    "uptime": "99.93%",
+    "uptimeDay": "91.95%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.98%",
     "time": 1097,
     "timeDay": 3481,
@@ -16,7 +16,7 @@
     "timeMonth": 1492,
     "timeYear": 1099,
     "dailyMinutesDown": {
-      "2022-11-09": 80
+      "2022-11-09": 116
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://arch.eduwill.net",
     "icon": "https://icons.duckduckgo.com/ip3/arch.eduwill.net.ico",
     "slug": "arch",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "93.59%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "91.13%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "99.98%",
-    "time": 1366,
-    "timeDay": 3716,
-    "timeWeek": 2490,
-    "timeMonth": 2005,
-    "timeYear": 1390,
+    "time": 1365,
+    "timeDay": 3115,
+    "timeWeek": 2328,
+    "timeMonth": 1968,
+    "timeYear": 1388,
     "dailyMinutesDown": {
-      "2022-11-09": 92
+      "2022-11-09": 127
     }
   },
   {
@@ -45,10 +45,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/ea.eduwill.net.ico",
     "slug": "ea",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "90.00%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "99.67%",
+    "uptime": "99.92%",
+    "uptimeDay": "87.53%",
+    "uptimeWeek": "98.22%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "99.97%",
     "time": 1473,
     "timeDay": 1824,
@@ -56,7 +56,7 @@
     "timeMonth": 1539,
     "timeYear": 1464,
     "dailyMinutesDown": {
-      "2022-11-09": 144
+      "2022-11-09": 180
     }
   }
 ]
