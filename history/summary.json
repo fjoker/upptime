@@ -5,20 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.eduwill.net.ico",
     "slug": "www",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 1116,
-    "timeDay": 1048,
-    "timeWeek": 1059,
-    "timeMonth": 1022,
+    "time": 1115,
+    "timeDay": 919,
+    "timeWeek": 1042,
+    "timeMonth": 1023,
     "timeYear": 1118,
     "dailyMinutesDown": {
       "2023-08-18": 31,
-      "2022-12-07": 200,
-      "2022-11-09": 193
+      "2022-12-07": 200
     }
   },
   {
@@ -33,15 +32,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 1705,
-    "timeDay": 1581,
-    "timeWeek": 1552,
-    "timeMonth": 1513,
-    "timeYear": 1694,
+    "timeDay": 1445,
+    "timeWeek": 1528,
+    "timeMonth": 1516,
+    "timeYear": 1691,
     "dailyMinutesDown": {
       "2023-08-18": 30,
       "2023-02-21": 29,
-      "2022-12-07": 334,
-      "2022-11-09": 248
+      "2022-12-07": 334
     }
   },
   {
@@ -56,15 +54,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 1504,
-    "timeDay": 1782,
-    "timeWeek": 1597,
-    "timeMonth": 1468,
-    "timeYear": 1510,
+    "timeDay": 1505,
+    "timeWeek": 1557,
+    "timeMonth": 1472,
+    "timeYear": 1509,
     "dailyMinutesDown": {
       "2023-05-24": 26,
       "2023-04-04": 140,
-      "2022-12-07": 334,
-      "2022-11-09": 321
+      "2022-12-07": 334
     }
   }
 ]
