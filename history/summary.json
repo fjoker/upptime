@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1134,
-    "timeDay": 1033,
-    "timeWeek": 1045,
-    "timeMonth": 1035,
-    "timeYear": 1163,
+    "time": 1133,
+    "timeDay": 996,
+    "timeWeek": 1021,
+    "timeMonth": 1039,
+    "timeYear": 1162,
     "dailyMinutesDown": {
       "2024-07-17": 23
     }
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/arch.eduwill.net.ico",
     "slug": "arch",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1713,
-    "timeDay": 1265,
-    "timeWeek": 1413,
-    "timeMonth": 1523,
+    "timeDay": 1760,
+    "timeWeek": 1480,
+    "timeMonth": 1528,
     "timeYear": 1751,
     "dailyMinutesDown": {
       "2024-08-21": 25,
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1614,
-    "timeDay": 1690,
-    "timeWeek": 1653,
-    "timeMonth": 1617,
-    "timeYear": 1635,
+    "time": 1616,
+    "timeDay": 1901,
+    "timeWeek": 1704,
+    "timeMonth": 1634,
+    "timeYear": 1636,
     "dailyMinutesDown": {
       "2024-07-17": 213
     }
