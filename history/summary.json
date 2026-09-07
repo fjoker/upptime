@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1310,
-    "timeDay": 1293,
-    "timeWeek": 1522,
-    "timeMonth": 1463,
-    "timeYear": 1428,
+    "time": 1312,
+    "timeDay": 1650,
+    "timeWeek": 1534,
+    "timeMonth": 1477,
+    "timeYear": 1429,
     "dailyMinutesDown": {
       "2026-01-21": 21,
       "2026-04-26": 193
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1465,
-    "timeDay": 1526,
-    "timeWeek": 1594,
-    "timeMonth": 1522,
-    "timeYear": 1474,
+    "timeDay": 1667,
+    "timeWeek": 1600,
+    "timeMonth": 1530,
+    "timeYear": 1475,
     "dailyMinutesDown": {
       "2026-04-26": 154
     }
@@ -46,16 +46,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ea.eduwill.net.ico",
     "slug": "ea",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1753,
-    "timeDay": 1820,
-    "timeWeek": 1891,
-    "timeMonth": 1861,
-    "timeYear": 1792,
+    "time": 1754,
+    "timeDay": 2355,
+    "timeWeek": 1951,
+    "timeMonth": 1878,
+    "timeYear": 1793,
     "dailyMinutesDown": {
       "2026-04-26": 122
     }
